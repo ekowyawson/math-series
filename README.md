@@ -87,5 +87,3 @@ The **Lucas Numbers** are a related series of integers that start with the value
 
 - [x] Add your `series.py` and `test_series.py` modules to your repository and commit frequently while working on your implementation.
   - Include good commit messages that explain concisely both what you are doing and why.
-
----
