@@ -2,7 +2,7 @@
 
 ## Project: Modules and Testing
 
-### Author: Ekow Yawson
+Author: Ekow Yawson
 
 ### Overview
 
